@@ -11,16 +11,16 @@ intents.presences = True  # Subscribe to presence events
 intents.message_content = True  # Subscribe to message content
 
 # Token bot Discord
-TOKEN = 'MTI2NzkwNTg5NjI5NDY0NTkxMQ.GUufgi.jOaRgQR_ctyFlAKk2yxETxC_wCi45Rs3gvhWSw'
+TOKEN = 'token-bot'
 
 # ID channel Discord
-CHANNEL_ID_DISCORD = 1216253723769049139
+CHANNEL_ID_DISCORD = id channel dc
 
 # ID role WOTA
-ROLE_ID_WOTA = 1191377740729954344
+ROLE_ID_WOTA = id role channel dc 
 
 # API key YouTube
-YOUTUBE_API_KEY = 'AIzaSyBAPz4w5CqUo4_LW-E3f9_GE4P7TgcK4zw'
+YOUTUBE_API_KEY = 'api-key'
 
 # Daftar akun YouTube yang ingin dipantau
 YOUTUBE_CHANNEL_IDS = [
