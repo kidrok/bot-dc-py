@@ -30,5 +30,5 @@ async def hi(ctx):
 
     
 
-token = 'MTI2MTMwNzMzNjE3NDA3NTk2NA.Gu9feq.RSvuvnl6zYR1ZQJ7-04Agajzekea-doQ6KQlbM'
+token = 'ganti-dengan-token'
 bot.run(token)
